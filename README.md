@@ -1,3 +1,6 @@
+Made by C1baby Services        discord server= discord.gg/c1baby join for member joiner and many more cool discord bots
+
+
 ![image](https://github.com/C1baby/C1baby-discord-moderator-bot/assets/137514685/2156e4db-6d83-4d88-8494-12b7fe7278c8)   - to see pic of the comands 
 
 Commands:
