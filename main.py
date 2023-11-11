@@ -6,8 +6,8 @@ intents = discord.Intents.all()
 bot = commands.Bot(command_prefix='!', intents=intents)
 
 # Replace 'AllowedRole1' and 'AllowedRole2' with the actual names of the roles you want to grant access to
-allowed_roles = ['Admin', 'CEO']
-allowed_roles2= ['Staff', 'CEO', 'Admin']
+allowed_roles = ['Admin', 'CEO'] # for the admin commands
+allowed_roles2= ['Staff', 'CEO', 'Admin'] # for the staff commands
 @bot.event
 async def on_ready():
     print(f'Logged in as {bot.user.name}')
