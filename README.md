@@ -25,3 +25,5 @@ These are all the commands for the C1baby Mod (Must be Admin)
 !addrole <mention user> <role name> | Add a role to a member of the server
 
 !removerole <mention user> <role name> | Removes a role to a member of the server
+
+!setstatus <custom status>
