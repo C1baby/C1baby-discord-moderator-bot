@@ -1,3 +1,7 @@
+Please give it a star if you like it!
+
+
+
 Made by C1baby Services   ----------     discord server= discord.gg/c1baby ------join for member joiner and many more cool discord bots
 
 
